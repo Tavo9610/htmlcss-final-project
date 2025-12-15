@@ -19,8 +19,8 @@ _Este proyecto es una UI Basica copiando el estilo de Whatsapp Web (ejemplo) el 
  ## Colours Used and Font / Colores usados y Fuente
 
 ```
-let message = 'Colours / Colores / Fonts / Fuentes';
-colors used /colores usados(
+'Colours / Colores / Fonts / Fuentes';
+colors used / colores usados(
 
 -primary-color: #0a9c6f;
   --grey-900: #0d1919;
@@ -36,6 +36,8 @@ colors used /colores usados(
   --primary-font: "Roboto", sans-serif;
 
 );
+
+```
 
 ## ScreenCapture / Captura de Pantalla
 
