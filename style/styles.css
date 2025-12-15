@@ -99,7 +99,7 @@ aside header {
 }
 
 .search form input {
-  background-color: var(--grey-700);
+  background-color:#1f2c34;
   width: 100%;
   display: block;
   border: none;
