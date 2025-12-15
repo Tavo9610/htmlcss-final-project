@@ -11,6 +11,32 @@ _Este proyecto es una UI Basica copiando el estilo de Whatsapp Web (ejemplo) el 
  * /styles.css
  * /images   
 
-## Example / Ejemplo
+## How to Run it / Como ejecutar el proyecto
+
+ * Open the "index.html" in any browser
+ * Abrir el archivo "index.html" en cualquier navegador
+
+ ## Colours Used and Font / Colores usados y Fuente
+
+```
+let message = 'Colours / Colores / Fonts / Fuentes';
+colors used /colores usados(
+
+-primary-color: #0a9c6f;
+  --grey-900: #0d1919;
+  --grey-800: #121b22;
+  --grey-600: #1f2c34;
+  --grey-700: #9f9fa1;
+  --grey-500: #dfdfe1;
+  --grey-300: #fefff6;
+  --grey-200: #f1f2f6;
+  --green-400: #138b80;
+  --green-300: #2dca7a;
+  --green-100: #dcf8c6;
+  --primary-font: "Roboto", sans-serif;
+
+);
+
+## ScreenCapture / Captura de Pantalla
 
 ![ScreenCap](https://i.imgur.com/mSqGBDD.png)
