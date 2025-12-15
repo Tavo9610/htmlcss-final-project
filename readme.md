@@ -11,6 +11,9 @@ _Este proyecto es una UI Basica copiando el estilo de __Whatsapp Web__ (ejemplo)
  * /styles.css
  * /images   
 
+ * __NOTE:__ The profile picture of each chat was generated using Gemini AI not real persons in any pic
+ * __NOTA:__ Las fotos de perfil de cada uno de los chats fue generada usando Gemini AI no fotos de personas reales
+
 ## How to Run it / Como ejecutar el proyecto
 
  * Open the "index.html" in any browser
