@@ -38,6 +38,11 @@ colors used / colores usados(
 );
 
 ```
+## Commit History / Commits Realizados
+
+* _I tried to be as descriptive as possible with each commit. I focused mainly on updating the CSS styles and fixing this same readme. The basic HTML structure hardly needed modifying because I had it previously done in another repository._
+
+* _Intente ser lo mas descriptivo posible con cada commit, me enfoque principalmente en actualizar los estilos CSS y reparar este mismo readme la estructura basica de html casi no fue necesario modificarla porque la tenia hecha previamente en otro repositorio_
 
 ## ScreenCapture / Captura de Pantalla
 
