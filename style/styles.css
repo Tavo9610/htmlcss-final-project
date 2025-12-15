@@ -89,9 +89,6 @@ aside header {
 
 .search {
   background-color: var(--grey-800);
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
   padding: 10px;
 }
 
