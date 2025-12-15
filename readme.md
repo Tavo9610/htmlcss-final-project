@@ -5,6 +5,12 @@ _This project is a Basic UI in the style of WhatsApp Web (example) the design in
 
 _Este proyecto es una UI Basica copiando el estilo de Whatsapp Web (ejemplo) el diseño incluye una barra lateral, le permite al usuario seleccionar un chat especifico e ir seleccionando distintos chats. esta es una UI muy basica solamente usando HTML/CSS para la maquetacion de la misma_
 
+## Main Structure of the project / Estructura principal del proyecto
+
+ * /index.html
+ * /styles.css
+ * /images   
+
 ## Example / Ejemplo
 
 ![ScreenCap](https://i.imgur.com/mSqGBDD.png)
