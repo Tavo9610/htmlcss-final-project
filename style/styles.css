@@ -140,7 +140,7 @@ aside header {
 }
 
 .chat-header {
-  background-color: var(--grey-300);
+  background-color:#f1f2f6;
   border-bottom: 1px solid var(--grey-500);
   display: flex;
   padding: 10px;
@@ -156,8 +156,6 @@ aside header {
 .chat-header p {
   color: var(--grey-700);
 }
-
-/* messages styles */
 
 .chat-panel {
   display: flex;
